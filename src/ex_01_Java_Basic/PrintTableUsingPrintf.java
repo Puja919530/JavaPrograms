@@ -4,6 +4,7 @@ public class PrintTableUsingPrintf {
     public static void main(String[] args) {
 
         byte n = 9;
+        System.out.println("Multiplication table of:" + n);
         System.out.printf(" %d * 1 = %d \n ", n, (n*1));
         System.out.printf("%d * 2 = %d \n", n, (n*2));
         System.out.printf(" %d * 3 = %d \n", n, (n*3));
