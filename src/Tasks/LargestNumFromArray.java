@@ -19,6 +19,6 @@ public class LargestNumFromArray {
                 max = arr[i];
             }
         }
-        System.out.println(max);
+        System.out.println("Largest number from array: " +max);
     }
 }
