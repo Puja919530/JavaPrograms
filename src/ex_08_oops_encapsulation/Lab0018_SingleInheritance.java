@@ -12,7 +12,9 @@ class Student1 extends AutomationTestingBluePrintBatch1{
     }
 }
 
-public class Lab010_SingleInheritance {
+
+
+public class Lab0018_SingleInheritance {
     public static void main(String[] args) {
         AutomationTestingBluePrintBatch1 atb1 = new AutomationTestingBluePrintBatch1();
         Student1 stu = new Student1();
