@@ -1,4 +1,4 @@
-package Tasks;
+package ex_03_coding_tasks;
 
 public class FabonicSeries {
     public static void main(String[] args) {

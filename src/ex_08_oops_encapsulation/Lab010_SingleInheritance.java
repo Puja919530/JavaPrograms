@@ -1,4 +1,4 @@
-package ex_08_encapsulation;
+package ex_08_oops_encapsulation;
 
 class AutomationTestingBluePrintBatch1{
     public void batchTime(){

@@ -1,4 +1,4 @@
-package Tasks;
+package ex_03_coding_tasks;
 
 import java.util.Scanner;
 
